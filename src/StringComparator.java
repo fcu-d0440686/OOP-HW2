@@ -1,6 +1,5 @@
 import java.util.Scanner;
 public class StringComparator {
-
 	public static void main(String[] args) {
 		int flag=1;
 		Scanner keyboard= new Scanner(System.in);
